@@ -1,0 +1,41 @@
+body {
+  background-color: transparent;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 650px;
+  height: auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: green;
+}
+
+.food {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 750px;
+  height: auto;
+}
+
+p {
+  text-align: center;
+  color: green;
+}
+
+.fb {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50px;
+  height: auto;
+}
